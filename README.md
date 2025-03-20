@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left">
-  <a href="https://github.com/Naoki-Hidaka">
-    <img height="20" src="https://img.shields.io/github/followers/Naoki-Hidaka?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/dosukoi-android">
+    <img height="20" src="https://img.shields.io/github/followers/dosukoi-android?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/dosukoi_android">
     <img height="20" src="https://qiita-badge.apiapi.app/s/dosukoi_android/contributions.svg" />
@@ -13,10 +13,10 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Naoki-Hidaka&count_private=true&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=dosukoi-android&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naoki-Hidaka" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dosukoi-android" />
   </a>
 </p>
 <!--
